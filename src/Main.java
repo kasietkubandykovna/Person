@@ -75,4 +75,3 @@ socialMediaService.deleteSocialMediaById(2L);
         socialMediaService.getAllSocialMediaByPersonId(2L);
     }
 }
-
